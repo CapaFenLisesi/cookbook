@@ -1,0 +1,5 @@
+\select@language {ngerman}
+\contentsline {chapter}{\numberline {1}Vorspeise}{5}
+\contentsline {chapter}{\numberline {2}Hauptspeise}{7}
+\contentsline {chapter}{\numberline {3}Dessert}{9}
+\contentsline {section}{\numberline {3.1}lecker Rezept}{10}
