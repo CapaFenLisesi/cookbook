@@ -1,19 +1,35 @@
 \documentclass[12pt,a4paper]{scrbook}
 \usepackage[ngerman]{babel}
-\usepackage{feynmf}
 \usepackage{amsmath}
 \usepackage{booktabs}
-\usepackage{rotating}
+\usepackage{coffee4}
+\usepackage{color}
+\usepackage{epsfig}
+\usepackage{eso-pic}
+\usepackage{float}
 \usepackage{graphicx}
 \usepackage{gensymb}
-\usepackage{epsfig}
-%\usepackage{SIunits}
-\usepackage{subfig}
+\usepackage{ifthen}
 \usepackage{nicefrac}
-\usepackage{color}
-\usepackage{float}
-\usepackage[utf8]{inputenc}
+%\usepackage{SIunits}
+\usepackage{pstricks}
+\usepackage{rotating}
+\usepackage{subfig}
+\usepackage{textcomp}
+% Komafont modifications
+\setcounter{secnumdepth}{\partnumdepth}
 
+% Modified environments
+\newcounter{notes}
+\newenvironment{Notes}
+{\begin{list} {
+    \textbf{\arabic{notes}} }{\usecounter{notes}%
+  \setlength{\labelsep}{0pt}%
+  \setlength{\leftmargin}{0pt}%
+  \setlength{\labelwidth}{0pt}%
+  \setlength{\listparindent}{0pt}}}%
+  {\end{list}}
+\usepackage[utf8]{inputenc}
 \title{Kochbuch}
 \author{wir}
 \date{}
@@ -21,7 +37,13 @@
 \maketitle
 \tableofcontents
 \chapter{Vorspeise}
+\include{kuerbissuppe}
 \chapter{Hauptspeise}
+\include{fischsuppe}
+\include{lasagne}
+\include{minestrone}
+\include{moehreneintopf}
+\include{klopse}
 \chapter{Dessert}
 \include{apfelmasc}
 \end{document}

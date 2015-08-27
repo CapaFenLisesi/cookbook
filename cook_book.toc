@@ -1,5 +1,11 @@
 \select@language {ngerman}
-\contentsline {chapter}{\numberline {1}Vorspeise}{5}
-\contentsline {chapter}{\numberline {2}Hauptspeise}{7}
-\contentsline {chapter}{\numberline {3}Dessert}{9}
-\contentsline {section}{\numberline {3.1}lecker Rezept}{10}
+\contentsline {chapter}{\nonumberline Vorspeise}{5}
+\contentsline {section}{\nonumberline K\"{u}rbissuppe}{6}
+\contentsline {chapter}{\nonumberline Hauptspeise}{7}
+\contentsline {section}{\nonumberline Fish Soup}{8}
+\contentsline {section}{\nonumberline Lasagne}{9}
+\contentsline {section}{\nonumberline Minestrone}{12}
+\contentsline {section}{\nonumberline Carrot Stew}{14}
+\contentsline {section}{\nonumberline Omas K\"{o}nigsberger Klopse}{16}
+\contentsline {chapter}{\nonumberline Dessert}{17}
+\contentsline {section}{\nonumberline Apple mascarpone}{18}
