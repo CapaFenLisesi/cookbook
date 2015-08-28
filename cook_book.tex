@@ -10,6 +10,7 @@
 \usepackage{graphicx}
 \usepackage{gensymb}
 \usepackage{ifthen}
+\usepackage{multirow}
 \usepackage{nicefrac}
 %\usepackage{SIunits}
 \usepackage{pstricks}
@@ -19,6 +20,9 @@
 % Komafont modifications
 \setcounter{secnumdepth}{\partnumdepth}
 
+\usepackage[utf8]{inputenc}
+
+\graphicspath{./pics/}
 % Modified environments
 \newcounter{notes}
 \newenvironment{Notes}
@@ -29,7 +33,6 @@
   \setlength{\labelwidth}{0pt}%
   \setlength{\listparindent}{0pt}}}%
   {\end{list}}
-\usepackage[utf8]{inputenc}
 \title{Kochbuch}
 \author{wir}
 \date{}
@@ -37,6 +40,7 @@
 \maketitle
 \tableofcontents
 \chapter{Vorspeise}
+\include{artischocken}
 \include{kuerbissuppe}
 \chapter{Hauptspeise}
 \include{fischsuppe}
@@ -44,7 +48,10 @@
 \include{minestrone}
 \include{moehreneintopf}
 \include{klopse}
-\chapter{Dessert}
+\include{zucchinieintopf}
+  \chapter{Dessert}
 \include{apfelmasc}
+\include{dulce}
+\include{cantuccini}
 \end{document}
 
