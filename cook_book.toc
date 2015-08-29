@@ -1,17 +1,18 @@
 \select@language {ngerman}
-\contentsline {chapter}{\nonumberline Vorspeise}{5}
+\contentsline {chapter}{\nonumberline Starters \& Soups}{5}
 \contentsline {section}{\nonumberline Artichokes}{6}
 \contentsline {section}{\nonumberline Stuffed Champignons with salad}{8}
 \contentsline {section}{\nonumberline Pumpkin Soup}{10}
-\contentsline {chapter}{\nonumberline Hauptspeise}{11}
-\contentsline {section}{\nonumberline Fish Soup}{12}
-\contentsline {section}{\nonumberline Lasagne}{14}
-\contentsline {section}{\nonumberline Minestrone}{17}
-\contentsline {section}{\nonumberline Carrot Stew}{19}
-\contentsline {section}{\nonumberline Chili Smoked Pork Chop}{21}
-\contentsline {section}{\nonumberline Oma's K\"{o}nigsberger Meatballs}{23}
-\contentsline {section}{\nonumberline Zucchini Stew}{25}
-\contentsline {chapter}{\nonumberline Dessert}{27}
-\contentsline {section}{\nonumberline Apple mascarpone}{28}
-\contentsline {section}{\nonumberline Dulce di Leche Creme}{30}
-\contentsline {section}{\nonumberline Cantuccini}{31}
+\contentsline {chapter}{\nonumberline Main Dishes}{13}
+\contentsline {section}{\nonumberline Fish Soup}{14}
+\contentsline {section}{\nonumberline Lasagne}{16}
+\contentsline {section}{\nonumberline Cheese Soup}{20}
+\contentsline {section}{\nonumberline Minestrone}{22}
+\contentsline {section}{\nonumberline Carrot Stew}{24}
+\contentsline {section}{\nonumberline Chili Smoked Pork Chop}{26}
+\contentsline {section}{\nonumberline Oma's K\"{o}nigsberger Meatballs}{28}
+\contentsline {section}{\nonumberline Zucchini Stew}{30}
+\contentsline {chapter}{\nonumberline Desserts \& Sweets}{33}
+\contentsline {section}{\nonumberline Apple mascarpone}{34}
+\contentsline {section}{\nonumberline Dulce di Leche Creme}{36}
+\contentsline {section}{\nonumberline Cantuccini}{38}

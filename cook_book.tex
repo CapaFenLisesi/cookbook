@@ -22,7 +22,7 @@
 
 \usepackage[utf8]{inputenc}
 
-\graphicspath{./pics/}
+\graphicspath{{./pics/}}
 % Modified environments
 \newcounter{notes}
 \newenvironment{Notes}
@@ -39,19 +39,21 @@
 \begin{document}
 \maketitle
 \tableofcontents
-\chapter{Vorspeise}
+\chapter[Starters \& Soups]{Starters \& Soups\newline Vorspeisen \& Suppen}
 \include{artischocken}
 \include{champignons}
 \include{kuerbissuppe}
-\chapter{Hauptspeise}
+\chapter[Main Dishes]{Main Dishes \newline Hauptspeisen}
 \include{fischsuppe}
 \include{lasagne}
+\include{kaesesuppe}
 \include{minestrone}
 \include{moehreneintopf}
 \include{chilikassler}
 \include{klopse}
 \include{zucchinieintopf}
-  \chapter{Dessert}
+\chapter[Desserts \& Sweets]{Desserts \& Sweets\newline Desserts \&
+  S\"{u}{\ss}speisen}
 \include{apfelmasc}
 \include{dulce}
 \include{cantuccini}
